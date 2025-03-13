@@ -1,0 +1,5 @@
+﻿  lab3.cpp
+C:\Users\MLG Y520\source\repos\lab3\lab3\lab3.cpp(104,17): error C2039: 'bubbleSort': is not a member of 'Student'
+      C:\Users\MLG Y520\source\repos\lab3\lab3\lab3.cpp(7,7):
+      see declaration of 'Student'
+  
