@@ -100,7 +100,6 @@ int main() {
 
     studenti[n].bubbleSort(studenti, n);
 
-    // Afișare lista sortată a studenților
     cout << "\nLista studentilor sortata dupa medie:\n";
     for (int i = 0; i < n; i++) {
         studenti[i].afisare_informatii();
