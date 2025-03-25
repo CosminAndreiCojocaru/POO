@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MLG Y520\\source\\repos\\lab5.1\\",
+  "WorkspaceRootPath": "C:\\Users\\MLG Y520\\Desktop\\POO\\lab5.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3ECE0078-441F-4A3C-81B0-73D81F76860D}|lab5.1\\lab5.1.vcxproj|C:\\Users\\MLG Y520\\source\\repos\\lab5.1\\lab5.1\\lab5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3ECE0078-441F-4A3C-81B0-73D81F76860D}|lab5.1\\lab5.1.vcxproj|C:\\Users\\MLG Y520\\Desktop\\POO\\lab5.1\\lab5.1\\lab5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3ECE0078-441F-4A3C-81B0-73D81F76860D}|lab5.1\\lab5.1.vcxproj|solutionrelative:lab5.1\\lab5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "lab5.1.cpp",
-              "DocumentMoniker": "C:\\Users\\MLG Y520\\source\\repos\\lab5.1\\lab5.1\\lab5.1.cpp",
+              "DocumentMoniker": "C:\\Users\\MLG Y520\\Desktop\\POO\\lab5.1\\lab5.1\\lab5.1.cpp",
               "RelativeDocumentMoniker": "lab5.1\\lab5.1.cpp",
-              "ToolTip": "C:\\Users\\MLG Y520\\source\\repos\\lab5.1\\lab5.1\\lab5.1.cpp*",
+              "ToolTip": "C:\\Users\\MLG Y520\\Desktop\\POO\\lab5.1\\lab5.1\\lab5.1.cpp*",
               "RelativeToolTip": "lab5.1\\lab5.1.cpp*",
-              "ViewState": "AgIAADgAAAAAAAAAAAAAAEIAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-25T14:19:48.742Z",
               "EditorCaption": ""

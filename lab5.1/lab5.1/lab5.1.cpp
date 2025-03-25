@@ -18,10 +18,18 @@ public:
 	void afiseaza_informatii() {
 		cout << "Nume " << nume << " Varsta " << varsta << endl;
 	}
+
+	string GetNume() const {
+		return nume;
+	}
+
+	int GetVarsta() const {
+		return varsta;
+	}
 };
 
 
-class Student : Persoana {
+class Student : public Persoana {
 private:
 	float medie;
 
@@ -37,7 +45,10 @@ public:
 		cout << "Nume " << nume << " Varsta " << varsta << " Medie: "<<medie<<endl;
 	}
 
-
+	//suprascrierea operatorului
+	bool operator>(const Student& celalalt_obiect) const {
+		return this->medie > celalalt_obiect.medie;
+	}
 
 };
 
@@ -67,6 +78,14 @@ int main()
 	Admin admin;
 	admin.modifica_medie(s2, 11);
 	admin.detaliiStudent(s2);
+
+	//verificam comparatia
+	if (s1 > s2) {
+		cout << s1.GetNume() << " are media mai mare decat " << s2.GetNume() << endl;
+	}
+	else {
+		cout << s2.GetNume() << " are media mai mare decat " << s1.GetNume() << endl;
+	}
 
 
 }
